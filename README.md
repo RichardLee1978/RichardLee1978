@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @RichardLee1978
+- 👀 I’m interested in Coding and Maked Chinese Delicacies.......
+- 🌱 I’m currently learning Nodejs，Flutter，Vue，React，Python， And More ...... 
+- 💞️ It's no end to learning ...
+
+<!---
+RichardLee1978/RichardLee1978 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
